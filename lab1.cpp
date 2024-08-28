@@ -21,7 +21,7 @@ using namespace std;
 #include <X11/Xlib.h>
 #include <X11/keysym.h>
 #include <GL/glx.h>
-
+// hi
 //some structures
 
 class Global {
